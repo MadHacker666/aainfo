@@ -1,0 +1,14 @@
+0x000	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACJoinResponsePacket>
+0x001	 NoPck
+0x002	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACChallengePacket>
+0x003	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACAuthResponsePacket>
+0x004	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACChallenge2Packet>
+0x005	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACEnterOtpPacket>
+0x006	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACShowArsPacket>
+0x007	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACEnterPcCertPacket>
+0x008	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACWorldListPacket>
+0x009	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACWorldQueuePacket>
+0x00A	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACWorldCookiePacket>
+0x00B	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACEnterWorldDeniedPacket>
+0x00C	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACLoginDeniedPacket>
+0x00D	PacketFunctor<X2::AuthClient,enum  X2::AuthToClientPacketType,X2::ACAccountWarnedPacket>

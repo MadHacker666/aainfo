@@ -1,0 +1,16 @@
+0x000	 NoPck
+0x001	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCJoinResponsePacket>
+0x002	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCDoodadStreamPacket>
+0x003	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCDoodadIdsPacket>
+0x004	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCDownloadEmblemPacket>
+0x005	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCUccComplexPacket>
+0x006	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCUccStringPacket>
+0x007	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCUccPositionPacket>
+0x008	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCUccCharNamePacket>
+0x009	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCCharNameQueriedPacket>
+0x00A	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCEmblemStreamRecvStatusPacket>
+0x00B	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCEmblemStreamSendStatusPacket>
+0x00C	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCEmblemStreamDownloadPacket>
+0x00D	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCItemUccDataPacket>
+0x00E	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCHouseFarmPacket>
+0x00F	PacketFunctor<X2::StreamClient,enum  X2::StreamToClientPacketType,X2::TCUccComplexCheckValidPacket>

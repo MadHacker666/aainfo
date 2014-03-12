@@ -1,0 +1,23 @@
+0x000	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::ChangeStatePacket>
+0x001	X2::FinishStatePacket
+0x002	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::FlushMsgsPacket>
+0x003	 NoPck
+0x004	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::UpdatePhysicsTimePacket>
+0x005	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::BeginUpdateObjPacket>
+0x006	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::EndUpdateObjPacket>
+0x007	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::BeginBindObjPacket>
+0x008	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::EndBindObjPacket>
+0x009	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::UnbindPredictedObjPacket>
+0x00A	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::RemoveStaticObjPacket>
+0x00B	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::VoiceDataPacket>
+0x00C	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::UpdateAspectPacket>
+0x00D	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::SetAspectProfilePacket>
+0x00E	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::PartialAspectPacket>
+0x00F	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::SetGameTypePacket>
+0x010	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::ChangeCVarPacket>
+0x011	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::EntityClassRegistrationPacket>
+0x012	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::PingPacket>
+0x013	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::PongPacket>
+0x014	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::PacketSeqChange>
+0x015	 NoPck
+0x016	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::FastPongPacket>
