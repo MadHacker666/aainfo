@@ -1,0 +1,1 @@
+[body]byte	//reasonword size; char[size] //vpword size; char[size] //msg
