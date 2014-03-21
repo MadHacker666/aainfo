@@ -1,0 +1,4 @@
+[body]
+word size; char[size] 	//level
+qword	//checksum
+byte	//immersive

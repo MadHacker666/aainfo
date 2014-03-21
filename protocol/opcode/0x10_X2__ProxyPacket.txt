@@ -19,5 +19,5 @@
 0x012	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::PingPacket>
 0x013	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::PongPacket>
 0x014	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::PacketSeqChange>
-0x015	 NoPck
+0x015	X2::FastPingPacket
 0x016	PacketFunctor<NetConnection,enum  X2::ProxyPacketType,X2::FastPongPacket>
