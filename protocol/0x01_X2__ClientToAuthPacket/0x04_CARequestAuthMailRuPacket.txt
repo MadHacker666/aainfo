@@ -1,0 +1,1 @@
+[body]dword	//p_fromdword	//p_tobyte	//devword size; char[size];	//macword size; char[size];	//idword size; char[size];	//tkn

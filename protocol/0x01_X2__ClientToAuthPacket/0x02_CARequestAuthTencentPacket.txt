@@ -1,0 +1,1 @@
+[body]dword	//p_fromdword	//p_tobyte	//svcdword	//qqnoword	//lenword size; char[size];	//sigword size; char[size];	//keyword size; char[size];	//mac

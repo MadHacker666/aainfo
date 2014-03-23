@@ -1,0 +1,9 @@
+[body]
+dword	//p_from
+dword	//p_to
+byte	//svc
+byte	//dev
+word size; char[size];	//account
+word size; char[size];	//mac
+word size; char[size];	//mac2
+qword	//cpu
