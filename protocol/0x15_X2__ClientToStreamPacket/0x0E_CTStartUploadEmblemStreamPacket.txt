@@ -1,0 +1,1 @@
+[body]byte[3]	//bcstruct{ qword	//type dword	//total struct{  dword	//part1  dword	//part2    dword	//r  dword	//g  dword	//b      dword	//r  dword	//g  dword	//b      dword	//r  dword	//g  dword	//b } qword	//modified}
