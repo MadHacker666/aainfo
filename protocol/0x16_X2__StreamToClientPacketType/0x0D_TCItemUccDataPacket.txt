@@ -1,0 +1,10 @@
+[body]
+dword	//type
+dword	//num ;max28
+struct{
+  qword	//itemId
+  qword	//type
+}[num]
+
+[wp]
+d(type)d(num:For.0002)q(itemId)q(type)

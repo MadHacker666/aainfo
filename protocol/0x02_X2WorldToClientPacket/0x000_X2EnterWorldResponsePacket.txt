@@ -1,1 +1,1 @@
-[body]word	//reasonbyte	//gmdword	//scword	//spqword	//wf
+[body]word	//reasonbyte	//gmdword	//scword	//spqword	//wf[wp]h(reason)c(gm)d(sc)h(sp)q(wf)

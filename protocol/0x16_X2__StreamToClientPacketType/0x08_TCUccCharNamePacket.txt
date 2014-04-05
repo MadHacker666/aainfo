@@ -1,0 +1,6 @@
+[body]
+dword	//type
+word size, char[size]	//name
+
+[wp]
+d(type)w(name:GT2.WStr)

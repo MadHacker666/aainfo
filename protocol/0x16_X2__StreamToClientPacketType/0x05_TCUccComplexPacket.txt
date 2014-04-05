@@ -1,0 +1,9 @@
+[body]
+qword	//type
+qword	//type
+qword	//type
+qword	//type
+qword	//modified
+
+[wp]
+q(type)q(type)q(type)q(type)q(modified)

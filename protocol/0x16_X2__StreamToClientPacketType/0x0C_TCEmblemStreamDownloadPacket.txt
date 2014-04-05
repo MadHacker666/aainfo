@@ -1,0 +1,6 @@
+[body]
+dword	//index
+dword	//size
+word size; byte[size]	//data
+[wp]
+d(index)d(size)w(data:GT2.HStr)

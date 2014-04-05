@@ -1,0 +1,25 @@
+[body]
+struct{
+  qword	//type
+  dword	//total
+  struct{
+	dword	//part1
+	dword	//part2
+	
+	dword	//r
+	dword	//g
+	dword	//b
+	
+	dword	//r
+	dword	//g
+	dword	//b
+	
+	dword	//r
+	dword	//g
+	dword	//b
+  }
+  qword	//modified
+}
+byte	//status
+[wp]
+q(type)d(total)d(part1)d(part2)d(r)d(g)d(b)d(r)d(g)d(b)d(r)d(g)d(b)q(modified)c(status)

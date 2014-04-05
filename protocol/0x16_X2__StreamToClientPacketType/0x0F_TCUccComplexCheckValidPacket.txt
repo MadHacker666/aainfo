@@ -1,0 +1,6 @@
+[body]
+qword	//type
+byte	//isValid
+
+[wp]
+q(type)c(isValid)

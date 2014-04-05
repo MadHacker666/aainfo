@@ -1,0 +1,31 @@
+[body]
+dword	//id
+dword	//next
+dword	//count
+struct{
+  byte[3]	//bc
+  dword	//type
+  struct{
+    byte	//ix0
+    byte	//ix1
+    byte	//ix2
+	
+    byte	//iy0
+    byte	//iy1
+    byte	//iy2
+	
+    byte	//iz0
+    byte	//iz1
+    byte	//iz2
+  }
+  word	//rot.x
+  word	//rot.y
+  word	//rot.z
+  float	//scale
+  dword	//type
+  dword	//growing
+  qword	//plantTime
+}[count]
+
+[wp]
+d(id)d(next)d(count:For.0018)z(0003bc)d(type)c(ix0)c(ix1)c(ix2)c(iy0)c(iy1)c(iy2)c(iz0)c(iz1)c(iz2)h(rot_x)h(rot_y)h(rot_z)p(scale)d(type)d(growing)q(plantTime)
